@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+}
+
+.Header {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    color: blueviolet;
+}
+
+.Pastalink {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    color: blueviolet;
+    border: black solid 5px;
+}
